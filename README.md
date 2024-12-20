@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm passionate about software development,pipeline
 
 ## Technologies & Tools
 
-- **Languages**: Python,R, C++, Rust
+- **Languages**: Python,R, C++, Rust, BASH
 - **Workflow managers**: Nextflow
 - **Databases**: MySQL
-- **Technologies**: Docker, HPC, SLURM
+- **Technologies**: Docker, HPC, SLURM, Linux 
 - **Tools**: Git, VS Code, R studio, genomics preprocessing (including samtools and gatk suites), cargo, gcc/g++, .
 
 ## Projects
