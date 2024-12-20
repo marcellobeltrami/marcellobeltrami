@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about software development,pipeline
 - **Workflow managers**: Nextflow
 - **Databases**: MySQL
 - **Technologies**: Docker, HPC, SLURM, Linux 
-- **Tools**: Git, VS Code, R studio, genomics preprocessing (including samtools and gatk suites), cargo, gcc/g++, .
+- **Tools**: Git, VS Code, R studio, genomics preprocessing (including samtools and gatk suites), cargo, gcc/g++.
 
 ## Projects
 
@@ -27,7 +27,7 @@ Here are a few projects I've been working on:
 
 ## Get in Touch
   
-- 📧 Email: [Marcello Beltrami](marcello.beltrami@outlook.com)
+- 📧 Email: marcello.beltrami@outlook.com
 - 💼 LinkedIn: [Marcello Beltrami](https://uk.linkedin.com/in/marcellobeltrami)
 
 Feel free to reach out if you have any questions, suggestions, consultancy requests or collaboration ideas!
