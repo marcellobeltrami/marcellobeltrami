@@ -1,6 +1,6 @@
-# Hi there, I'm Marcello Beltrami! 👋
+# Hello there! 👋
 
-Welcome to my GitHub profile! I'm passionate about software development,pipeline development, and 3D printing. Here you'll find a variety of projects that showcase my skills and interests.
+My name is Marcello Beltrami and this is GitHub profile! I'm passionate about software development for bioinformatics, data analysis pipeline development, and 3D printing. Here you'll find a variety of projects I carried out because coding is just fun.
 
 ## About Me
 
