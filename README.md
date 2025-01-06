@@ -20,8 +20,7 @@ Here are a few projects I've been working on:
 [![Marcello's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=marcellobeltrami&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in Touch
-  
-- 📧 Email: marcello.beltrami@outlook.com
+
 - 💼 LinkedIn: [Marcello Beltrami](https://uk.linkedin.com/in/marcellobeltrami)
 
 Feel free to reach out if you have any questions, suggestions, consultancy requests or collaboration ideas!
