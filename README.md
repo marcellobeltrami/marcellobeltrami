@@ -1,12 +1,12 @@
 # Hello there! 👋
 
-My name is Marcello Beltrami and this is GitHub profile! I'm passionate about software development for bioinformatics, data analysis pipeline development, and 3D printing. Here you'll find a variety of projects I carried out because coding is just fun.
+My name is Marcello Beltrami and this is GitHub profile! I'm passionate about software development for bioinformatics, data analysis pipeline development, and 3D printing. Here you'll find a variety of projects I carried out because coding is just fun and incredibly addictive.
 
 ## About Me
 
 - 🧬 Bioinformatician at the University of York (Mason Lab) with focus pipeline development, genomics data processing and analysis. 
 - 🌐 Interested in exploring low level tool development for bioinformatics.
-- 🔭 Focus on performant and reproducible pipelines.  
+- 🔭 Focus on custom performant and reproducible pipelines in Nextflow.  
 - 🎓 Bachelor's degree in Microbiology. Master's degree in Bioinformatics
 
 ## Projects and Languages
