@@ -20,6 +20,14 @@ Here are a few projects I've been working on:
 
 [![Marcello's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=marcellobeltrami&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+----
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=bash,cpp,css,docker,git,html,md,mysql,nginx,py,pytorch,rust,vscode" />
+</p>
+
+----
+
 ## Get in Touch
 
 - 💼 LinkedIn: [Marcello Beltrami](https://uk.linkedin.com/in/marcellobeltrami)
