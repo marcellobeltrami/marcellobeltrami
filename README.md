@@ -4,7 +4,7 @@ My name is Marcello Beltrami and this is GitHub profile! I'm passionate about so
 
 ## About Me
 
-- 🧬 Bioinformatician at the University of York (Mason Lab) with focus pipeline development, genomics data processing and analysis. 
+- 🧬 Bioinformatician at the University of York (Mason Lab)[https://asmasonomics.github.io/group/] with focus pipeline development, genomics data processing and analysis. 
 - 🌐 Interested in exploring low level tool development for bioinformatics.
 - 🔭 Focus on custom performant and reproducible pipelines in Nextflow.  
 - 🎓 Bachelor's degree in Microbiology. Master's degree in Bioinformatics
