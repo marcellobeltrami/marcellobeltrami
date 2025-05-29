@@ -21,7 +21,7 @@ Here are a few projects I've been working on:
 ----
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=bash,py,r,rust,cpp,css,docker,git,html,md,mysql,pytorch,vscode" />
+    <img src="https://skillicons.dev/icons?i=bash,py,r,rust,cpp,docker,git,tensorflow,md,mysql,pytorch,vscode" />
 </p>
 
 ----
